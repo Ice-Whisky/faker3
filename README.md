@@ -61,4 +61,4 @@ https://www.notion.so/Cent-OS-7-6-1c598629675145988b43a37998a1604a
 * [@Andy Woo](https://t.me/update_help_group)「青龙互助研究院支持」
 * [@Oreo](https://github.com/Oreomeow) 「青龙Faker仓库一键安装配置」
 
-# 欢迎Pull Request！
+# 请不要传播 请不要传播 请不要下载 请不要下载！
